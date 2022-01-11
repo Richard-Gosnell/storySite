@@ -3,4 +3,11 @@
 // You can use Sass (SCSS) here: https://sass-lang.com/
 h1 {
     font-family: 'Lobster', cursive;
+    padding-bottom: 4px;
+}
+
+#menu {
+    position: relative;
+    top: -8px;
+    font-family: 'Rye', cursive;
 }
